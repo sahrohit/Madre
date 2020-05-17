@@ -155,7 +155,7 @@ header {
   margin-right: 10em;
   position: absolute;
   right: 50px;
-  top: 28.5rem;
+  top: 430px;
 
   /* box-shadow: 2px 2px 2px 2px; */
 }
@@ -191,7 +191,7 @@ header {
   padding: 20px 20px 0px;
   position: absolute;
   right: 48.6em;
-  top: 51.6em;
+  top: 800px;
   /* text-align: justify; */
   /* box-shadow: 2px 2px 2px 2px; */
 }
@@ -209,7 +209,7 @@ header {
 .eventimage2 {
   position: absolute;
   right: 13.1em;
-  top: 51.6em;
+  top: 800px;
 }
 
 .subevent-title {
